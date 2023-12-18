@@ -1,5 +1,3 @@
-import random
-
 def insertion_sort(array):
     result = []
     if len(array) == 1:
